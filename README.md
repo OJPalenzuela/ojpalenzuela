@@ -1,6 +1,13 @@
 # 💻 About Me:
 
-✔ I am currently working on my own web development projects, with a focus on ReactJS and NextJS 💻<br>✔ I love collaborating with other developers and working in teams 🤝<br>✔ I am constantly learning about web design and usability, so if you have any questions on these topics, feel free to ask me 💬<br>✔ My experience in leading projects for important clients has taught me the importance of planning and team management ⭐<br>✔ I also have experience with GraphQL and Strapi, which allows me to offer comprehensive solutions to my clients 🔧
+🚀 Passionate web developer focused on **ReactJS** and **Next.js**, constantly exploring new technologies to build scalable and high-performance applications.  
+
+✔ **Currently working** on personal and freelance projects, refining my skills in modern web development. 💻<br>  
+✔ **Team player** who thrives on collaboration and knowledge sharing—always open to new ideas! 🤝<br>  
+✔ **User-centered mindset**, continuously learning about **web design** and **usability**—happy to discuss and help with these topics! 💬<br>  
+✔ **Project leadership experience**, delivering high-quality solutions for major clients through effective **planning** and **team management**. ⭐<br>
+
+Let's connect and build something amazing! 🚀  
 
 ## 🌐 Socials:
 
