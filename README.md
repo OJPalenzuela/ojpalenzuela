@@ -1,11 +1,11 @@
 # 💻 About Me:
 
-🚀 Passionate web developer focused on **ReactJS** and **Next.js**, constantly exploring new technologies to build scalable and high-performance applications.  
+🚀 Passionate web developer focused on **Next.js** anf **ReactJS**, constantly exploring new technologies to build scalable and high-performance applications.  
 
-✔ **Currently working** on personal and freelance projects, refining my skills in modern web development. 💻<br>  
-✔ **Team player** who thrives on collaboration and knowledge sharing—always open to new ideas! 🤝<br>  
-✔ **User-centered mindset**, continuously learning about **web design** and **usability**—happy to discuss and help with these topics! 💬<br>  
-✔ **Project leadership experience**, delivering high-quality solutions for major clients through effective **planning** and **team management**. ⭐<br>
+✔ **Currently working** on personal and freelance projects, refining my skills in modern web development. 💻
+✔ **Team player** who thrives on collaboration and knowledge sharing—always open to new ideas! 🤝
+✔ **User-centered mindset**, continuously learning about **web design** and **usability**—happy to discuss and help with these topics! 💬
+✔ **Project leadership experience**, delivering high-quality solutions for major clients through effective **planning** and **team management**. ⭐
 
 Let's connect and build something amazing! 🚀  
 
